@@ -1,0 +1,14 @@
+C:\Users\linda\music\ConvertorUnidades\bin\Debug\net7.0\ConvertorUnidades.exe
+C:\Users\linda\music\ConvertorUnidades\bin\Debug\net7.0\ConvertorUnidades.deps.json
+C:\Users\linda\music\ConvertorUnidades\bin\Debug\net7.0\ConvertorUnidades.runtimeconfig.json
+C:\Users\linda\music\ConvertorUnidades\bin\Debug\net7.0\ConvertorUnidades.dll
+C:\Users\linda\music\ConvertorUnidades\bin\Debug\net7.0\ConvertorUnidades.pdb
+C:\Users\linda\music\ConvertorUnidades\obj\Debug\net7.0\ConvertorUnidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\music\ConvertorUnidades\obj\Debug\net7.0\ConvertorUnidades.AssemblyInfoInputs.cache
+C:\Users\linda\music\ConvertorUnidades\obj\Debug\net7.0\ConvertorUnidades.AssemblyInfo.cs
+C:\Users\linda\music\ConvertorUnidades\obj\Debug\net7.0\ConvertorUnidades.csproj.CoreCompileInputs.cache
+C:\Users\linda\music\ConvertorUnidades\obj\Debug\net7.0\ConvertorUnidades.dll
+C:\Users\linda\music\ConvertorUnidades\obj\Debug\net7.0\refint\ConvertorUnidades.dll
+C:\Users\linda\music\ConvertorUnidades\obj\Debug\net7.0\ConvertorUnidades.pdb
+C:\Users\linda\music\ConvertorUnidades\obj\Debug\net7.0\ConvertorUnidades.genruntimeconfig.cache
+C:\Users\linda\music\ConvertorUnidades\obj\Debug\net7.0\ref\ConvertorUnidades.dll
